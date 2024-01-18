@@ -1,0 +1,8 @@
+{
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": {
+    "ghcr.io/devcontainers-contrib/features/node-asdf:0": {},
+    "ghcr.io/devcontainers-community/npm-features/typescript:1": {},
+    "ghcr.io/devcontainers-contrib/features/angular-cli:2": {}
+  }
+}
